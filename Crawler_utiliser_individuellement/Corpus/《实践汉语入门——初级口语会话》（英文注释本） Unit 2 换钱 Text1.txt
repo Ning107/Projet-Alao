@@ -1,0 +1,16 @@
+你：您好！
+我换钱。
+Bankclerk：好，请你填表。
+你：给您表。
+Bankclerk：谢谢。
+请问，你有护照吗？
+你：有，给您。
+Bankclerk：请你点钱。
+你：多少钱？
+Bankclerk：两千九百六十块。
+你：对，谢谢。
+Bankclerk：不谢。
+Bankclerk：你有取款卡吗？
+你：有。
+Bankclerk：你也可以用取款机换钱。
+《实践汉语入门——初级口语会话》（英文注释本） Unit 2 换钱 Text1
